@@ -1,13 +1,14 @@
-# OpenMotion
-Open-source platform to collect, visualize, and analyze data from IMU's and microcontrollers. 
+OpenMotion:
 
-## Overview
+Open-source platform for collecting, visualizing, and analyzing motion data from IMUs and microcontrollers.
+
+Overview:
 
 Motion sensors are used in numerous areas of engineering and research, including robotics, biomechanics, wearable technology, and human-computer interaction. However, collecting and analyzing motion data often requires users to develop their own hardware interfaces, data-processing scripts, or visualization tools.
 
 OpenMotion aims to provide a simple and accessible open-source platform that combines low-cost hardware with open-source software for motion-data collection and analysis.
 
-## Why OpenMotion?
+Why OpenMotion?:
 
 Motion-data projects often require users to develop multiple components independently, including microcontroller firmware, data-logging software, visualization tools, and data-processing scripts. This can make it difficult for students and researchers to quickly begin working with motion data.
 
@@ -15,10 +16,9 @@ OpenMotion aims to provide a reusable starting point for these projects. By comb
 
 Because the project is open source, users can inspect, modify, and extend the system for their own applications.
 
-## Project Goals
+Project Goals:
 
 OpenMotion aims to:
-
 - Collect motion data from IMU sensors.
 - Support affordable and accessible hardware.
 - Provide tools for visualizing sensor data.
@@ -27,7 +27,7 @@ OpenMotion aims to:
 - Provide a foundation for future machine-learning applications.
 - Encourage students, researchers, and hobbyists to contribute.
 
-## Intended Users
+Intended Users:
 
 OpenMotion is intended for:
 
@@ -39,6 +39,7 @@ OpenMotion is intended for:
 - Data scientists
 - Hobbyists interested in motion sensing
 
-## Project Status
+Project Status:
 
 OpenMotion is currently in the planning and early development stage.
+planning and early development stage.
