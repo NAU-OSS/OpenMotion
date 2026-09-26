@@ -7,6 +7,14 @@ Motion sensors are used in numerous areas of engineering and research, including
 
 OpenMotion aims to provide a simple and accessible open-source platform that combines low-cost hardware with open-source software for motion-data collection and analysis.
 
+## Why OpenMotion?
+
+Motion-data projects often require users to develop multiple components independently, including microcontroller firmware, data-logging software, visualization tools, and data-processing scripts. This can make it difficult for students and researchers to quickly begin working with motion data.
+
+OpenMotion aims to provide a reusable starting point for these projects. By combining affordable hardware with open-source software, OpenMotion can help users collect and analyze motion data without having to develop an entire data-collection pipeline from scratch.
+
+Because the project is open source, users can inspect, modify, and extend the system for their own applications.
+
 ## Project Goals
 
 OpenMotion aims to:
