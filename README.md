@@ -43,3 +43,12 @@ Project Status:
 
 OpenMotion is currently in the planning and early development stage.
 planning and early development stage.
+
+Documentation:
+
+Additional information about the OpenMotion project can be found in the following documents:
+- [Project Overview](docs/project-overview.md) – Describes the proposed system architecture, data flow, hardware, software, and future applications.
+- [Contributing Guide](CONTRIBUTING.md) – Explains how contributors can participate in the project.
+- [Code of Conduct](CODE_OF_CONDUCT.md) – Provides guidelines for respectful participation in the OpenMotion community.
+- [Roadmap](ROADMAP.md) – Describes planned areas of future development.
+
